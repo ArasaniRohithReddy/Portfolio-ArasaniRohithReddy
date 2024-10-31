@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://vercel.com/api/toolbar/link/portfolio-arasani-rohith-reddy.vercel.app?via=project-dashboard-alias-list&p=1&page=/">ArasaniRohithReddy</a></h2>
+<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-arasani-rohith-reddy.vercel.app/">ArasaniRohithReddy</a></h2>
 
 <br/>
 
